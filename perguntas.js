@@ -1,23 +1,23 @@
 criaCartao(
+    'Conhecimentos gerais'
+  'O que é roblox?',
+    'Uma plataforma de jogos online'
+)
+
+criaCartao(
     'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Quais são os tipos de jogos mais populares?',
+    'Aventura, luta, estratégia e RPG'
+)
+    
+    criaCartao(
+    'Conhecimentos gerais',
+    'Como os jogos são criados?',
+        'Usando o Roblox Studio'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
-)
-
-criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Conhecimentos gerais',
+    'Quais são os benefícios"?',
+    'desenvolvimento de habilidades e diversão'
 )
